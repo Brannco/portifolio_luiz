@@ -4,7 +4,7 @@ portifolio para documentar o processo o de apredizado da disciplina de progamaç
 <h1>projeto: pagina para calcular media</h1>
 
 
-Arwuivo (s):
+Arquivo (s):
 <ul>
   <li>calcularmedia</li>
 </ul>
